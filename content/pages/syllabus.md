@@ -49,18 +49,201 @@ Additional Information: [Citing and Using Sources](http://cmsw.mit.edu/writing-a
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Introduction {{< br >}}{{< br >}} Martin: Transparency {{< br >}}{{< br >}}  | &nbsp; |
-| 2 | Martin: Transparency (cont.) | First squib out five days after Ses #2 |
-| 3 | Campbell: Reference and consciousness | &nbsp; |
-| 4 |  {{< br >}}{{< br >}} Visitor: John Campbell {{< br >}}{{< br >}} Johnston: Sensory awareness {{< br >}}{{< br >}}  | First squib due |
-| 5 |  {{< br >}}{{< br >}} Johnston: Sensory awareness (cont.) {{< br >}}{{< br >}} Siegel: Contents of visual experience {{< br >}}{{< br >}}  | &nbsp; |
-| 6 | Crane: Perceptual relations | &nbsp; |
-| 7 | Campbell, Frith, and Johnstone: Thought insertion and schizophrenia | Second squib out two days after Ses #7 |
-| 8 |  {{< br >}}{{< br >}} Thought insertion (cont.) {{< br >}}{{< br >}} Chalmers: Perception and fall from Eden {{< br >}}{{< br >}}  | &nbsp; |
-| 9 | Visitor: David Chalmers | &nbsp; |
-| 10 | Block: Consciousness | Second squib due |
-| 11 | Schwitzgebel: Introspection | &nbsp; |
-| 12 | O'Callaghan: Sounds | &nbsp; |
-| 13 | Visitor: Casey O'Callaghan | Term paper due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction
+
+Martin: Transparency
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Martin: Transparency (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+First squib out five days after Ses #2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Campbell: Reference and consciousness
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Visitor: John Campbell
+
+Johnston: Sensory awareness
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+First squib due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Johnston: Sensory awareness (cont.)
+
+Siegel: Contents of visual experience
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Crane: Perceptual relations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Campbell, Frith, and Johnstone: Thought insertion and schizophrenia
+{{< tdclose >}}
+{{< tdopen >}}
+Second squib out two days after Ses #7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Thought insertion (cont.)
+
+Chalmers: Perception and fall from Eden
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Visitor: David Chalmers
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Block: Consciousness
+{{< tdclose >}}
+{{< tdopen >}}
+Second squib due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Schwitzgebel: Introspection
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+O'Callaghan: Sounds
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Visitor: Casey O'Callaghan
+{{< tdclose >}}
+{{< tdopen >}}
+Term paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

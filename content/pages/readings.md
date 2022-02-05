@@ -18,18 +18,331 @@ O'Callaghan, Casey. _Sounds: A Philosophical Theory_. New York, NY: Oxford Unive
 Readings by Session
 -------------------
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Introduction {{< br >}}{{< br >}} Martin: Transparency {{< br >}}{{< br >}}  | {{< h 3 >}}Required readings{{< /h >}} {{< br >}}{{< br >}} Handout: Martin, "The Transparency of Experience." ([PDF]({{< baseurl >}}/resources/transparency)) {{< br >}}{{< br >}} Martin, M. G. F. "The Transparency of Experience." _Mind and Language_ 17, no. 4 (September 2002): 376-425. {{< br >}}{{< br >}} {{< h 3 >}}Recommended readings{{< /h >}} {{< br >}}{{< br >}} Siegel, Susanna. "[The Epistemic Conception of Hallucination](https://www.semanticscholar.org/paper/The-Epistemic-Conception-of-Hallucination-Siegel/fce3a373cdafd821d03121725fd7484eaec592a1)." In _Disjunctivism: Perception, Action, Knowledge._ Edited by Adrian Haddock and Fiona Macpherson. New York, NY: Oxford University Press, 2007. ISBN: 9780199231546. {{< br >}}{{< br >}} Martin, M. G. F. "The Limits of Self-Awareness." _Philosophical Studies_ 120 (2004): 37-89. {{< br >}}{{< br >}}  |
-| 2 | Martin: Transparency (cont.) | {{< h 3 >}}Recommended readings{{< /h >}} {{< br >}}{{< br >}} Noordhof, Paul. "Imagining Objects and Imagining Experiences." _Mind and Language_ 17, no. 4 (September 2002): 426-455. {{< br >}}{{< br >}} Byrne, Alex. "Color and the Mind-Body Problem." _Dialectica_ 60, no. 3 (September 2006): 223-244. {{< br >}}{{< br >}} McGinn, Colin. "Images and Percepts." Chapter 1 in _Mindsight: Image, Dream, Meaning_. Cambridge, MA: Harvard University Press, 2004, pp. 7-41. ISBN: 9780674015609. {{< br >}}{{< br >}} Byrne, Alex, and Heather Logue. "Either/Or." In _Disjunctivism: Perception, Action, Knowledge._ Edited by Adrian Haddock and Fiona Macpherson. New York, NY: Oxford University Press, 2007. ISBN: 9780199231546. {{< br >}}{{< br >}} Siegel, Susanna. "Indiscriminability and the Phenomenal." _Philosophical Studies_ 120 (2004): 91-112. {{< br >}}{{< br >}}  |
-| 3 | Campbell: Reference and consciousness | {{< h 3 >}}Required readings{{< /h >}} {{< br >}}{{< br >}} Campbell, John. "The Relational View of Experience." Chapter 6 in _Reference and Consciousness._ pp. 114-131. {{< br >}}{{< br >}} ———. "The Explanatory Role of Consciousness." Chapter 7 in _Reference and Consciousness._ pp. 132-156. {{< br >}}{{< br >}} {{< h 3 >}}Recommended readings{{< /h >}} {{< br >}}{{< br >}} ———. "Précis of Reference and Consciousness." _Philosophical Studies_ 126 (2005): 103-114. {{< br >}}{{< br >}} ———. "Reply to Rey." _Philosophical Studies_ 126 (2005): 155-162. {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} Visitor: John Campbell {{< br >}}{{< br >}} Johnston: Sensory awareness {{< br >}}{{< br >}}  | {{< h 3 >}}Required readings{{< /h >}} {{< br >}}{{< br >}} Johnston, Mark. "Better then Mere Knowledge? The Function of Sensory Awareness." Chapter 7 in _Perceptual Experience_, pp. 260-290. {{< br >}}{{< br >}} {{< h 3 >}}Recommended readings{{< /h >}} {{< br >}}{{< br >}} ———. "The Obscure Object of Hallucination." _Philosophical Studies_ 120 (2004): 113-183. {{< br >}}{{< br >}}  |
-| 5 |  {{< br >}}{{< br >}} Johnston: Sensory awareness (cont.) {{< br >}}{{< br >}} Siegel: Contents of visual experience {{< br >}}{{< br >}}  | {{< h 3 >}}Required readings{{< /h >}} {{< br >}}{{< br >}} Handout: "The Contents of Visual Experience." ([PDF]({{< baseurl >}}/resources/content_view)) {{< br >}}{{< br >}} Crane, Tim. "[The Problem of Perception](http://plato.stanford.edu/entries/perception-problem/)." Stanford Encyclopedia of Philosophy, March 8, 2005. (accessed February 5, 2007). {{< br >}}{{< br >}} Siegel, Susanna. "[The Contents of Perception](http://plato.stanford.edu/entries/perception-contents/)." Stanford Encyclopedia of Philosophy, March 18, 2005. (accessed February 5, 2007). {{< br >}}{{< br >}} {{< h 3 >}}Recommended readings{{< /h >}} {{< br >}}{{< br >}} Breckenridge, Wylie. "Why Think that Visual Experience has Representational Content?" Forthcoming in _Philosophical Perspectives_ 21, no. 1 (2007). {{< br >}}{{< br >}}  |
-| 6 | Crane: Perceptual relations | {{< h 3 >}}Required readings{{< /h >}} {{< br >}}{{< br >}} Crane, Tim. "Is There a Perceptual Relation?" Chapter 3 in _Perceptual Experience_, pp. 126-146. {{< br >}}{{< br >}} {{< h 3 >}}Recommended readings{{< /h >}} {{< br >}}{{< br >}} Byrne, Alex, and Heather Logue. "Either/Or." In _Disjunctivism: Perception, Action, Knowledge_. Edited by Adrian Haddock and Fiona Macpherson. New York, NY: Oxford University Press, 2007. ISBN: 9780199231546. {{< br >}}{{< br >}}  |
-| 7 | Campbell, Frith, and Johnstone: Thought insertion and schizophrenia | {{< h 3 >}}Required readings{{< /h >}} {{< br >}}{{< br >}} Campbell, John. "The Ownership of Thoughts." _Philosophy, Psychiatry, and Psychology_ 9, no. 1 (March 2002): 35-39. {{< br >}}{{< br >}} ———. "Schizophrenia, the Space of Reasons, and Thinking as a Motor Process." _The Monist_ 82, no. 4 (1999): 609-625. {{< br >}}{{< br >}} Frith, Christopher, and Eve Johnstone. _Schizophrenia: A Very Short Introduction_. pp. 32-41 and 123-144. {{< br >}}{{< br >}}  |
-| 8 |  {{< br >}}{{< br >}} Thought insertion (cont.) {{< br >}}{{< br >}} Chalmers: Perception and fall from Eden {{< br >}}{{< br >}}  | {{< h 3 >}}Required readings{{< /h >}} {{< br >}}{{< br >}} Chalmers, David J. "Perception and the Fall from Eden." Chapter 2 in _Perceptual Experience._ pp. 49-125. {{< br >}}{{< br >}}  |
-| 9 | Visitor: David Chalmers | &nbsp; |
-| 10 | Block: Consciousness | {{< h 3 >}}Required readings{{< /h >}} {{< br >}}{{< br >}} Block, Ned. "Consciousness, Accessibility, and the Mesh Between Psychology and Neuroscience." Forthcoming paper in Behavioral and Brain Sciences. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0 MB](http://www.nyu.edu/gsas/dept/philo/faculty/block/papers/puzzle.pdf)) {{< br >}}{{< br >}} {{< h 3 >}}Recommended readings{{< /h >}} {{< br >}}{{< br >}} Carrasco, Marisa, Sam Ling, and Sarah Read. "Attention Alters Appearance." _Nature Neuroscience_ 7, no. 3 (March 2004): 308-313. {{< br >}}{{< br >}}  |
-| 11 | Schwitzgebel: Introspection | {{< h 3 >}}Required readings{{< /h >}} {{< br >}}{{< br >}} Schwitzgebel, Eric. "Introspective Training Apprehensively Defended: Reflections on Titchener's Lab Manual." _Journal of Consciousness Studies_ 11, nos. 7-8 (2004): 58-76. {{< br >}}{{< br >}} ———. "Do You Have Constant Tactile Experience of Your Feet in Your Shoes? Or Is Experience Limited to What's in Attention?" _Journal of Consciousness Studies_ 14, no. 3 (2007): 5-35. {{< br >}}{{< br >}}  |
-| 12 | O'Callaghan: Sounds | {{< h 3 >}}Required readings{{< /h >}} {{< br >}}{{< br >}} O'Callaghan, Casey. "Sonic Realism." Chapter 1 in _Sounds: A Philosophical Theory_. {{< br >}}{{< br >}} {{< h 3 >}}Recommended readings{{< /h >}} {{< br >}}{{< br >}} ———. _Sounds: A Philosophical Theory_. New York, NY: Oxford University Press, 2007. ISBN: 9780199215928. {{< br >}}{{< br >}}  |
-| 13 | Visitor: Casey O'Callaghan | {{< h 3 >}}Required readings{{< /h >}} {{< br >}}{{< br >}} O'Callaghan, Casey. "Constructing a Theory of Sounds." Forthcoming paper in Oxford Studies in Metaphysics. {{< br >}}{{< br >}} {{< h 3 >}}Recommended readings{{< /h >}} {{< br >}}{{< br >}} ———. _Sounds: A Philosophical Theory_. New York, NY: Oxford University Press, 2007. ISBN: 9780199215928. {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction
+
+Martin: Transparency
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required readings
+
+Handout: Martin, "The Transparency of Experience." ([PDF]({{< baseurl >}}/resources/transparency))
+
+Martin, M. G. F. "The Transparency of Experience." _Mind and Language_ 17, no. 4 (September 2002): 376-425.
+
+### Recommended readings
+
+Siegel, Susanna. "[The Epistemic Conception of Hallucination](https://www.semanticscholar.org/paper/The-Epistemic-Conception-of-Hallucination-Siegel/fce3a373cdafd821d03121725fd7484eaec592a1)." In _Disjunctivism: Perception, Action, Knowledge._ Edited by Adrian Haddock and Fiona Macpherson. New York, NY: Oxford University Press, 2007. ISBN: 9780199231546.
+
+Martin, M. G. F. "The Limits of Self-Awareness." _Philosophical Studies_ 120 (2004): 37-89.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Martin: Transparency (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Recommended readings
+
+Noordhof, Paul. "Imagining Objects and Imagining Experiences." _Mind and Language_ 17, no. 4 (September 2002): 426-455.
+
+Byrne, Alex. "Color and the Mind-Body Problem." _Dialectica_ 60, no. 3 (September 2006): 223-244.
+
+McGinn, Colin. "Images and Percepts." Chapter 1 in _Mindsight: Image, Dream, Meaning_. Cambridge, MA: Harvard University Press, 2004, pp. 7-41. ISBN: 9780674015609.
+
+Byrne, Alex, and Heather Logue. "Either/Or." In _Disjunctivism: Perception, Action, Knowledge._ Edited by Adrian Haddock and Fiona Macpherson. New York, NY: Oxford University Press, 2007. ISBN: 9780199231546.
+
+Siegel, Susanna. "Indiscriminability and the Phenomenal." _Philosophical Studies_ 120 (2004): 91-112.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Campbell: Reference and consciousness
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required readings
+
+Campbell, John. "The Relational View of Experience." Chapter 6 in _Reference and Consciousness._ pp. 114-131.
+
+———. "The Explanatory Role of Consciousness." Chapter 7 in _Reference and Consciousness._ pp. 132-156.
+
+### Recommended readings
+
+———. "Précis of Reference and Consciousness." _Philosophical Studies_ 126 (2005): 103-114.
+
+———. "Reply to Rey." _Philosophical Studies_ 126 (2005): 155-162.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Visitor: John Campbell
+
+Johnston: Sensory awareness
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required readings
+
+Johnston, Mark. "Better then Mere Knowledge? The Function of Sensory Awareness." Chapter 7 in _Perceptual Experience_, pp. 260-290.
+
+### Recommended readings
+
+———. "The Obscure Object of Hallucination." _Philosophical Studies_ 120 (2004): 113-183.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Johnston: Sensory awareness (cont.)
+
+Siegel: Contents of visual experience
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required readings
+
+Handout: "The Contents of Visual Experience." ([PDF]({{< baseurl >}}/resources/content_view))
+
+Crane, Tim. "[The Problem of Perception](http://plato.stanford.edu/entries/perception-problem/)." Stanford Encyclopedia of Philosophy, March 8, 2005. (accessed February 5, 2007).
+
+Siegel, Susanna. "[The Contents of Perception](http://plato.stanford.edu/entries/perception-contents/)." Stanford Encyclopedia of Philosophy, March 18, 2005. (accessed February 5, 2007).
+
+### Recommended readings
+
+Breckenridge, Wylie. "Why Think that Visual Experience has Representational Content?" Forthcoming in _Philosophical Perspectives_ 21, no. 1 (2007).
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Crane: Perceptual relations
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required readings
+
+Crane, Tim. "Is There a Perceptual Relation?" Chapter 3 in _Perceptual Experience_, pp. 126-146.
+
+### Recommended readings
+
+Byrne, Alex, and Heather Logue. "Either/Or." In _Disjunctivism: Perception, Action, Knowledge_. Edited by Adrian Haddock and Fiona Macpherson. New York, NY: Oxford University Press, 2007. ISBN: 9780199231546.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Campbell, Frith, and Johnstone: Thought insertion and schizophrenia
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required readings
+
+Campbell, John. "The Ownership of Thoughts." _Philosophy, Psychiatry, and Psychology_ 9, no. 1 (March 2002): 35-39.
+
+———. "Schizophrenia, the Space of Reasons, and Thinking as a Motor Process." _The Monist_ 82, no. 4 (1999): 609-625.
+
+Frith, Christopher, and Eve Johnstone. _Schizophrenia: A Very Short Introduction_. pp. 32-41 and 123-144.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Thought insertion (cont.)
+
+Chalmers: Perception and fall from Eden
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required readings
+
+Chalmers, David J. "Perception and the Fall from Eden." Chapter 2 in _Perceptual Experience._ pp. 49-125.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Visitor: David Chalmers
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Block: Consciousness
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required readings
+
+Block, Ned. "Consciousness, Accessibility, and the Mesh Between Psychology and Neuroscience." Forthcoming paper in Behavioral and Brain Sciences. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0 MB](http://www.nyu.edu/gsas/dept/philo/faculty/block/papers/puzzle.pdf))
+
+### Recommended readings
+
+Carrasco, Marisa, Sam Ling, and Sarah Read. "Attention Alters Appearance." _Nature Neuroscience_ 7, no. 3 (March 2004): 308-313.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Schwitzgebel: Introspection
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required readings
+
+Schwitzgebel, Eric. "Introspective Training Apprehensively Defended: Reflections on Titchener's Lab Manual." _Journal of Consciousness Studies_ 11, nos. 7-8 (2004): 58-76.
+
+———. "Do You Have Constant Tactile Experience of Your Feet in Your Shoes? Or Is Experience Limited to What's in Attention?" _Journal of Consciousness Studies_ 14, no. 3 (2007): 5-35.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+O'Callaghan: Sounds
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required readings
+
+O'Callaghan, Casey. "Sonic Realism." Chapter 1 in _Sounds: A Philosophical Theory_.
+
+### Recommended readings
+
+———. _Sounds: A Philosophical Theory_. New York, NY: Oxford University Press, 2007. ISBN: 9780199215928.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Visitor: Casey O'Callaghan
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required readings
+
+O'Callaghan, Casey. "Constructing a Theory of Sounds." Forthcoming paper in Oxford Studies in Metaphysics.
+
+### Recommended readings
+
+———. _Sounds: A Philosophical Theory_. New York, NY: Oxford University Press, 2007. ISBN: 9780199215928.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
